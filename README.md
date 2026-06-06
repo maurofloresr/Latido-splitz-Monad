@@ -2,19 +2,23 @@
 
 Una wallet diseñada para cuidar a quienes más queremos. Construida sobre Monad Testnet en la hackathon de Monad (junio 2026).
 
+## Demo
+[![Demo en YouTube](https://img.shields.io/badge/Ver%20demo-YouTube-red?style=for-the-badge&logo=youtube)](ACÁ_TU_LINK)
+
 ## Screenshots
 
 ### Home
-<img width="1898" height="858" alt="home" src="https://github.com/user-attachments/assets/374d9551-979c-4662-957f-ba55152718ea" />
+<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/244ea339-1867-4e7c-b87b-5d43922c47e9" />
 
 ### Elegir rol
-<img width="1255" height="783" alt="login" src="https://github.com/user-attachments/assets/8be35c54-4b6d-4140-8996-6d091834529c" />
+<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/bc18e7ce-47ef-42aa-9bf9-bc77564a1448" />
 
 ### Vista Guardian
-<img width="1153" height="871" alt="guardian" src="https://github.com/user-attachments/assets/319a9f50-fba7-4fb5-8b31-1e13770b0e3d" />
+<img width="1920" height="1080" alt="guardian" src="https://github.com/user-attachments/assets/40230241-adc1-430e-9bb1-6258cdcd5a1e" />
 
 ### Vista Dependiente
-<img width="267" height="554" alt="cuenta" src="https://github.com/user-attachments/assets/547bb37b-86dc-4116-83f7-9d9bf96a0355" />
+<img width="1920" height="1080" alt="cuenta" src="https://github.com/user-attachments/assets/75fac2e4-789b-41bd-8d91-6194dd6ea035" />
+
 
 ## ¿Qué es Latido?
 
